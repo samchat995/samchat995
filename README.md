@@ -13,7 +13,7 @@ a<h1 align="center">✨ Hi, I'm Samiran Chatterjee ✨</h1>
 - 🎓 Student at *Techno International Newtown*  
 - 💡 Always curious about *technology & innovation*  
 - 🏆 Believer in *consistency over motivation*  
-- 🌱 Exploring *Full Stack Development & Databases*  
+- 🌱 Exploring * AI-ML & Databases*  
 
 > “The best way to predict the future is to create it.” – Abraham Lincoln  
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
@@ -31,6 +31,9 @@ a<h1 align="center">✨ Hi, I'm Samiran Chatterjee ✨</h1>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20learning-blue) " />
+
 </p>
 
 ---
